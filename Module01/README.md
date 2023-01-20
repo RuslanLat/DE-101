@@ -44,7 +44,7 @@
 [Дашборд](https://github.com/RuslanLat/DE-101/blob/main/Module01/data/Superstore.xlsx)
 
 
-![dashboard](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/dashboard.jpg)
+![dashboard](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/dashboard.png)
 
 Отчет:
 * динамика дохода и прибыли по месяца
