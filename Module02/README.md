@@ -58,7 +58,7 @@
 
 ## База данных в облаке
 
-![solution_architecture](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/solution_architecture.jpg)
+![db_in_cloud](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/db_in_cloud.png)
 
 Схемы Баз данных:
 * **Stagen** - STORAGE LAYER
@@ -69,7 +69,7 @@
 
 [Notebook](https://github.com/RuslanLat/DE-101/blob/main/Module02/bl_model_storage_layer.ipynb) с **SQL** запросами
 
-**SQL Query** - BUSINESS LAYER
+* **SQL Query** - BUSINESS LAYER
 
 [Notebook](https://github.com/RuslanLat/DE-101/blob/main/Module02/sql_query_business_layer.ipynb) с **SQL** запросами
 
