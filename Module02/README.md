@@ -58,7 +58,7 @@
 
 ## База данных в облаке
 
-![db_in_cloud](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/db_in_cloud.png)
+![db_in_cloud](https://github.com/RuslanLat/DE-101/blob/main/Module02/images/db_in_cloud.png)
 
 Схемы Баз данных:
 * **Stagen** - STORAGE LAYER
