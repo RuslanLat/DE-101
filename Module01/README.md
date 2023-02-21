@@ -22,12 +22,12 @@
 ## Аналитика в Jupyter Notebook
 
 [Notebook](https://github.com/RuslanLat/DE-101/blob/main/Module01/superstore.ipynb) решения [задания](https://github.com/RuslanLat/DE-101/blob/main/Module01/task.md):
-- загрузка данных [Sample - Superstore.xls](https://github.com/RuslanLat/DE-101/blob/main/Module01/data/Sample - Superstore.xls)
-- заполнение пропусков в данных
-- объединение таблиц Orders, People и Returns
-- сохранение объединенных данных в [файл](https://github.com/RuslanLat/DE-101/blob/main/Module01/data/Superstore.csv)
-- аналитика
+* загрузка данных [Sample - Superstore.xls](https://github.com/RuslanLat/DE-101/blob/main/Module01/data/Sample%20-%20Superstore.xls)
+* заполнение пропусков в данных
+* объединение таблиц Orders, People и Returns
+* сохранение объединенных данных в [файл](https://github.com/RuslanLat/DE-101/blob/main/Module01/data/Superstore.csv)
 
+Аналитика:
 * динамика дохода и прибыли по месяцам
 * доход и прибыль по категориям товаров
 * доход и прибыль по менеджерам
@@ -52,5 +52,7 @@
 * продажи по сегментам
 * продажи по классу доставки
 * возврат по продажам
+
+![img](https://github.com/RuslanLat/DE-101/blob/main/Module01/images/de101-module01.png)
 
 Руслан Латипов <img src="https://github.com/RuslanLat/DE-101/blob/main/Module01/images/telegram_icon.png" width="15"> @rus_lat116
